@@ -1,5 +1,13 @@
 {
     "icon": "cross",
+    "fields": [
+        "crossing:saltire",
+        "crossing:bell",
+        "crossing:light",
+        "crossing:barrier",
+        "crossing:activation",
+        "crossing:on_demand",
+    ],
     "geometry": [
         "vertex"
     ],
